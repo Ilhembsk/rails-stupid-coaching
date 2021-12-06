@@ -1,0 +1,27 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+ $whitesmoke: whitesmoke;
+
+ body {
+   background: whitesmoke;
+ }
+
+ h2 {
+   background: whitesmoke;
+   h2 {
+     font-size: 50px;
+   }
+ }
+
+ a {
+   color: grey;
+   &:hover {
+     color: black;
+   }
+ }
+
+ p {
+   font-style: italic;
+ }
